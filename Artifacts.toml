@@ -1,0 +1,68 @@
+[[Wasmtime]]
+arch = "aarch64"
+git-tree-sha1 = "76dacdcdabf9eb4dd5e3e631de045a9c83964d10"
+os = "macos"
+
+    [[Wasmtime.download]]
+    sha256 = "ab1c816e43e96434466d90aa484f05b9e066433fa4c00c8d430219745a455fda"
+    url = "https://github.com/JuliaBinaryWrappers/Wasmtime_jll.jl/releases/download/Wasmtime-v22.0.0+0/Wasmtime.v22.0.0.aarch64-apple-darwin.tar.gz"
+[[Wasmtime]]
+arch = "aarch64"
+git-tree-sha1 = "5d9bf47c96ced05b5048f619f07ce7a1cc3adfae"
+libc = "glibc"
+os = "linux"
+
+    [[Wasmtime.download]]
+    sha256 = "0e961a81bcc29c8c54536036cf3417f9caac884cda19db1d9ccb1c09152fb5ba"
+    url = "https://github.com/JuliaBinaryWrappers/Wasmtime_jll.jl/releases/download/Wasmtime-v22.0.0+0/Wasmtime.v22.0.0.aarch64-linux-gnu.tar.gz"
+[[Wasmtime]]
+arch = "aarch64"
+git-tree-sha1 = "470a8c8b690087c9d29f315bcdcee43866144d6b"
+libc = "musl"
+os = "linux"
+
+    [[Wasmtime.download]]
+    sha256 = "a9f38fbbdcbc4dbd98bc71bfe61577f71a77d6079b5d32bc8994b3efd9966e51"
+    url = "https://github.com/JuliaBinaryWrappers/Wasmtime_jll.jl/releases/download/Wasmtime-v22.0.0+0/Wasmtime.v22.0.0.aarch64-linux-musl.tar.gz"
+[[Wasmtime]]
+arch = "x86_64"
+git-tree-sha1 = "e796b40db58cdb539337ad224be3a6642e17d93f"
+os = "macos"
+
+    [[Wasmtime.download]]
+    sha256 = "a1760aab6ee1a904f9e54530480ba67c0d4de940d771a922be9f2feb1b85a3c2"
+    url = "https://github.com/JuliaBinaryWrappers/Wasmtime_jll.jl/releases/download/Wasmtime-v22.0.0+0/Wasmtime.v22.0.0.x86_64-apple-darwin.tar.gz"
+[[Wasmtime]]
+arch = "x86_64"
+git-tree-sha1 = "f9c46f3a805fce2547f45f1eaa2cc3dd30cef673"
+libc = "glibc"
+os = "linux"
+
+    [[Wasmtime.download]]
+    sha256 = "31619cf76eab171f388115628a8a826a9a98c549c4a239381ca924d8ac3752f1"
+    url = "https://github.com/JuliaBinaryWrappers/Wasmtime_jll.jl/releases/download/Wasmtime-v22.0.0+0/Wasmtime.v22.0.0.x86_64-linux-gnu.tar.gz"
+[[Wasmtime]]
+arch = "x86_64"
+git-tree-sha1 = "da965c9ba0f05435b1ff54be4931da892e7e4b94"
+libc = "musl"
+os = "linux"
+
+    [[Wasmtime.download]]
+    sha256 = "5b209788623bf7f4b1f9a97abae11cabe6752c049fedbe052cc42639b6f252ed"
+    url = "https://github.com/JuliaBinaryWrappers/Wasmtime_jll.jl/releases/download/Wasmtime-v22.0.0+0/Wasmtime.v22.0.0.x86_64-linux-musl.tar.gz"
+[[Wasmtime]]
+arch = "x86_64"
+git-tree-sha1 = "dfea70f5162495503882c5022395facd78ea2a8a"
+os = "freebsd"
+
+    [[Wasmtime.download]]
+    sha256 = "141a569b61bb2ad7755f242b208c8f41b0b962d690d5f354100141e5a7d443aa"
+    url = "https://github.com/JuliaBinaryWrappers/Wasmtime_jll.jl/releases/download/Wasmtime-v22.0.0+0/Wasmtime.v22.0.0.x86_64-unknown-freebsd.tar.gz"
+[[Wasmtime]]
+arch = "x86_64"
+git-tree-sha1 = "7dc4401f7ad4350a9733a2bd845e87f93e3d2573"
+os = "windows"
+
+    [[Wasmtime.download]]
+    sha256 = "c6afa8cf4da3b8d48ef2b906e81799c3c55178e51e6ed9af6f2e19e82e8d79ef"
+    url = "https://github.com/JuliaBinaryWrappers/Wasmtime_jll.jl/releases/download/Wasmtime-v22.0.0+0/Wasmtime.v22.0.0.x86_64-w64-mingw32.tar.gz"
